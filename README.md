@@ -1,4 +1,4 @@
-[# Experiment-2--Implementation-of-Perceptron
+
 ## AIM:
 
 To implement a perceptron for classification using Python
@@ -130,4 +130,4 @@ plt.show()
 
 ## RESULT:
 Thus a perceptron for classification is implemented using python.
-](https://github.com/Lavanyajoyce/Experiment-2--Implementation-of-Perceptron)https://github.com/Lavanyajoyce/Experiment-2--Implementation-of-Perceptron
+
